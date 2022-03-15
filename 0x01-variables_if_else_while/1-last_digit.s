@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"Last digit of %d is %d "
+	.string	"Last digit of %d is %d"
 .LC1:
 	.string	"and is greater than 5"
 .LC2:
