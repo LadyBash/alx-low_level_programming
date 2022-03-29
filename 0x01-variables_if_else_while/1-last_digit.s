@@ -1,4 +1,6 @@
 	.file	"1-last_digit.c"
+<<<<<<< HEAD
+=======
 	.text
 	.section	.rodata
 .LC0:
@@ -153,3 +155,4 @@ main:
 3:
 	.align 8
 4:
+>>>>>>> 2e81afae828915ce8ed5339edf8fa6a4dc8b4559

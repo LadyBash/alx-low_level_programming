@@ -6,4 +6,7 @@ char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
+<<<<<<< HEAD
 void set_string(char **s, char *to);
+=======
+>>>>>>> 7f4ce4181890c8595ddf9389a53fb6e50ed31a30
